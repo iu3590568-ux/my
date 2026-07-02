@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+pysocks
+aiohttp
+asyncio
+colorama
+cryptg
+python-dotenv
+telethon  
